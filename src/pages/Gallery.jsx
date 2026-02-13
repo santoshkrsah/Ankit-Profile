@@ -14,7 +14,7 @@ const IMAGES = {
       id: 2,
       caption:
         "Weekend getaway to clear my head 🌄 Sometimes inspiration strikes when you’re away from the screen.",
-      photos: ["/gallerys/Chhath Puja.JPG", "/gallerys/Ankit pic.jpg"],
+      photos: ["/gallerys/Infosys-Visit.jpeg", "/gallerys/Ankit pic.jpg"],
     },
   ],
   /*projects: [
