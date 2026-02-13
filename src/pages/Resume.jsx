@@ -217,7 +217,7 @@ export default function Resume() {
         >
           <iframe
             src="/ANKIT-KUMAR-CV Updated.pdf"
-            title="Santosh Kumar Resume"
+            title="Ankit Kumar Resume"
             style={{
               width: "100%",
               height: "650px",
