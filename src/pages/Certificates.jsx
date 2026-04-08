@@ -19,6 +19,13 @@ const CERTS = {
       link: "/certs/Basic Of Python_page-0001.jpg",
     },
     {
+      title: "Artificial Intelligence",
+      org: "Infosys Springboard",
+      date: "2026",
+      img: "/certs/Info-AI.jpg",
+      link: "/certs/Info-AI.jpg",
+    },
+    {
       title: "Coading Developement",
       org: "Deloitte",
       date: "2025",

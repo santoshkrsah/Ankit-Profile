@@ -216,7 +216,7 @@ export default function Resume() {
           }}
         >
           <iframe
-            src="/ANKIT-KUMAR-CV Updated.pdf"
+            src="/ANKIT_KUMAR_.pdf"
             title="Ankit Kumar Resume"
             style={{
               width: "100%",
@@ -229,7 +229,7 @@ export default function Resume() {
 
         {/* Download Button */}
         <motion.a
-          href="/ANKIT-KUMAR-CV Updated.pdf"
+          href="/ANKIT_KUMAR_.pdf"
           download
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
