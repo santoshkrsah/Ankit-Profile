@@ -12,6 +12,7 @@ const SKILLS = [
   { name: "Git", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" },
   { name: "Django", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" },
   { name: "JavaScript", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" },
+  { name: "Flask", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg"},
 ];
 
 const ROWS = [
@@ -19,7 +20,7 @@ const ROWS = [
     { title: "Programming Languages", items: ["Python"] },
     { title: "Web Technologies", items: ["HTML", "CSS", "JavaScript", "React"] },
     { title: "Databases & Tools", items: ["MySQL", "Git"] },
-    { title: "Frameworks & Libraries", items: ["Django"] },
+    { title: "Frameworks & Libraries", items: ["Django","Flask"] },
   ],
   [
 

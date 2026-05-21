@@ -12,11 +12,19 @@ const PROJECTS = [
   },
   {
   title: '💼 Portfolio Website',
-  desc: 'A modern and responsive portfolio built with React and Framer Motion, showcasing projects, skills, and achievements with smooth animations and interactive UI.',
+  desc: 'A modern and responsive portfolio built with React and Framer Motion, showcasing projects, skills, and achievements with smooth animations and interactive UI.                                 ',
   ss: '/ProfileX.png',
   tech: ['React', 'Django', 'Tailwind CSS'],
   live: '#',
   code: 'Your project link here'
+  },
+  {
+  title: '💼 ResumeIQ',
+  desc: 'An AI-powered resume screening and recruitment platform built with React and Flask, enabling ATS-based resume analysis, job matching, and smart candidate filtering using NLP techniques',
+  ss: '/ResumeIQ.png',
+  tech: ['React', 'Flask', 'MongoDb','NLP','Tailwind CSS'],
+  live: 'https://resume-iq-tyyh.vercel.app/',
+  code: 'https://github.com/Kumarankit666/Resume-IQ'
   },
   
 ]
