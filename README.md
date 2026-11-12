@@ -39,7 +39,7 @@ To run this project locally:
 git clone https://github.com/Kumarankit666/my-profile
 
 # 2️⃣ Navigate to project directory
-cd my-profile
+cd cd <Your Folder path name>
 
 # 3️⃣ Install dependencies
 npm install
