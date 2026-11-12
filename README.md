@@ -61,6 +61,15 @@ If you’d like to collaborate or just say hi 👋, feel free to reach out!
 
 ---
 
+## 🤝 Contributors
+
+Built and maintained together by:
+
+* 👨‍💻 **Ankit Kumar** — Portfolio owner & developer
+* 👨‍💻 **Santosh Kumar Sah** — Developer & collaborator ([@santoshkrsah](https://github.com/santoshkrsah))
+
+---
+
 ## 🌟 Deployment
 
 Deployed seamlessly on **Vercel** for continuous integration and fast CDN delivery.
